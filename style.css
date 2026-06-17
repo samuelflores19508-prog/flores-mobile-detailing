@@ -94,7 +94,7 @@ textarea:focus-visible {
 
 .logo-text span:last-child {
   font-size: 0.85rem;
-  color: #4b5563;
+  color: #111827;
 }
 
 .nav-button {
@@ -271,6 +271,10 @@ blockquote {
   color: white;
 }
 
+.contact-section .eyebrow {
+  color: #ffffff;
+}
+
 form {
   display: grid;
   gap: 0.75rem;
@@ -291,6 +295,12 @@ button {
   padding: 1rem;
 }
 
+input::placeholder,
+textarea::placeholder {
+  color: #4b5563;
+  opacity: 1;
+}
+
 textarea {
   min-height: 130px;
   resize: vertical;
@@ -306,7 +316,7 @@ button {
 
 .form-note {
   margin-top: 1rem;
-  color: #d1d5db;
+  color: #ffffff;
 }
 
 .demo-contact-details {
