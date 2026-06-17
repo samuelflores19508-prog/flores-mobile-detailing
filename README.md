@@ -42,3 +42,9 @@ This demo supports a beginner freelance offer: a simple one-page landing page fo
 The offer would include a mobile-friendly layout, service sections, service-area copy, FAQ content, quote/contact section, tap-to-call structure, basic SEO metadata, publishing, and basic page-quality testing.
 
 Starting price target: $250–$400 for the first few clients.
+
+## Portfolio
+
+Main portfolio homepage:
+
+https://samuelflores19508-prog.github.io/
