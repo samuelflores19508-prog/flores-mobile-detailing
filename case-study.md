@@ -57,3 +57,5 @@ For a real client, I would add real business photos, real reviews, a working for
 After publishing the site, I ran a public page-quality test and recorded the mobile and desktop results. The first published version scored 100 for performance on both mobile and desktop. I then made improvements for accessibility, SEO metadata, keyboard navigation, semantic navigation, and demo transparency.
 
 These changes matter because a business website should not only look good. It should also be usable, understandable, mobile-friendly, and easy to share with potential customers.
+
+I also fixed a color contrast issue in the contact section after PageSpeed identified the “Request a quote” eyebrow text as too low-contrast on the dark background.
