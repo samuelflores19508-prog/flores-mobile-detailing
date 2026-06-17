@@ -34,3 +34,11 @@ I tested the page at a narrow mobile width of 375px and confirmed there was no s
 ## Status
 
 This is a portfolio demo project. The business details are fictional.
+
+## Starter service offer
+
+This demo supports a beginner freelance offer: a simple one-page landing page for a local service business.
+
+The offer would include a mobile-friendly layout, service sections, service-area copy, FAQ content, quote/contact section, tap-to-call structure, basic SEO metadata, publishing, and basic page-quality testing.
+
+Starting price target: $250–$400 for the first few clients.
